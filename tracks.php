@@ -49,7 +49,7 @@
             <tr>
                 <td><?php echo $track->trackName ?></td>
                 <td><?php echo $track->albumsTitle ?></td>
-                <td><?php echo $track->artisName ?></td>
+                <td><?php echo $track->artistName ?></td>
                 <td><?php echo $track->price ?></td>
                 <td><?php echo $track->mediaType ?></td>
                 <td><?php echo $track->genre ?></td>
